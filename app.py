@@ -10,7 +10,7 @@ import cv2
 
 in_operator = st.sidebar.selectbox(
      'Operator',
-     ('Scott', 'Kala', 'Seth','Zarek','Zeta','April','Amare'))
+     ('Scott', 'Kala', 'Seth','Zarek','Zaida','April','Amare'))
 
 in_lotnumber = st.sidebar.selectbox(
      'Lot Number',
